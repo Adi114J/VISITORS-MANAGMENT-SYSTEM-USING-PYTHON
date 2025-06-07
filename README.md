@@ -1,7 +1,6 @@
 # VISITORS-MANAGMENT-SYSTEM-USING-PYTHON
-Here is a **description for a Visitors Management System (VMS)** suitable for your report, documentation, or project presentation:
 
----
+
 
 ## **Visitors Management System – Description**
 
@@ -43,4 +42,3 @@ Depending on the implementation, a VMS can be built using:
 
 ---
 
-If you want a shorter version (e.g. for a slide or report), just let me know!
